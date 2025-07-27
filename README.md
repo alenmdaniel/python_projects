@@ -1,2 +1,2 @@
 # python_projects
-As I develop my scientific computing skills with Python, here a few mini projects that showcase my journey
+As I develop my scientific computing skills with Python, here are a few mini projects that showcase my journey
